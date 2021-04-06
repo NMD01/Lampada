@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+#conteudo{
+    margin-top: 30px;
+    text-align: center;
+}
+#botao{
+    margin-top: 30px;
+    font-size: 20px;
+    padding: 20px;
+    background-color: yellow;
+    text-transform: uppercase;
+    border: 2px solid black;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+
